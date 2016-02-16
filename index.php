@@ -1,9 +1,9 @@
 <HTML>
 <BODY>
 <CENTER>
-<img src="redhat.jpg">
+<img src="redhat-dino.jpg">
 <BR><BR>
-<font size=7 color="red"><b>Hello this message is new!</b> We hope you like this demo.</font>
+<font size=7 color="red"><b>Welcome to 'The Next Big Thing'</b></font>
 <BR>
 <H4><a HREF='dbtest.php'>Link to a database test...</a></H4>
 </CENTER>
