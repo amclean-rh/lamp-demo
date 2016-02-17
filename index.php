@@ -1,7 +1,7 @@
 <HTML>
 <BODY>
 <CENTER>
-<img src="redhat-dino.jpg">
+<img src="redhat.jpg">
 <BR><BR>
 <font size=7 color="red"><b>Welcome to 'The Next Big Thing'</b></font>
 <BR>
