@@ -1,7 +1,7 @@
 <HTML>
 <BODY>
 <CENTER>
-<img src="redhat-dino.jpg">
+<img src="redhat.jpg">
 <BR><BR>
 <font size=7 color="red"><b>Hello world!</b></font>
 <BR>
